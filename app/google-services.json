@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148341524093",
+    "firebase_url": "https://cloud-counselage.firebaseio.com",
+    "project_id": "cloud-counselage",
+    "storage_bucket": "cloud-counselage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148341524093:android:fce3b7095107293c",
+        "android_client_info": {
+          "package_name": "com.cloudcounselage.cloudcounselageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148341524093-pt6do1mfsi7r287ot4mpvnculqci4i12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlO17tArW2IzWfrcWdvqsvdu8BUxi9APY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
